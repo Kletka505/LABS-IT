@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a85e5f35-8bdf-4843-b9e3-edc01c18c872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../4-5 LAB/.idea/MyWebApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-5 LAB/.idea/MyWebApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-5 LAB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-5 LAB/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 LAB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7 LAB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 LAB/.idea/simple-bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../7 LAB/.idea/simple-bot.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tamara.bazhanova/Desktop/LABS IT"
+    "last_opened_file_path": "C:/Users/tamara.bazhanova/Desktop/LABS IT/7.1 LAB"
   }
 }]]></component>
   <component name="RunManager" selected="Python.calculator">
